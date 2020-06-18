@@ -1,0 +1,174 @@
+.html-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.html-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.html-dropdown:hover .html-content {
+  display: block;
+  font-size: 2vh;
+}
+.html-dropdown p {
+  font-size: 2.5vh;
+  transition: 0.4s;
+}
+.html-dropdown p:hover {
+  font-size: 2vh;
+}
+.html-content p {
+  font-size: 1.5vh;
+}
+
+
+.css-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.css-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.css-dropdown:hover .css-content {
+  display: block;
+  font-size: 2vh;
+}
+.css-dropdown p {
+  font-size: 2.5vh;
+  transition: 0.4s;
+}
+.css-dropdown p:hover {
+  font-size: 2vh;
+}
+.css-content p {
+  font-size: 1.5vh;
+}
+
+
+.uiux-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.uiux-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.uiux-dropdown:hover .uiux-content {
+  display: block;
+  font-size: 2vh;
+}
+.uiux-dropdown p {
+  font-size: 2.5vh;
+  transition: 0.4s;
+}
+.uiux-dropdown p:hover {
+  font-size: 2vh;
+}
+.uiux-content p {
+  font-size: 1.5vh;
+}
+
+
+.git-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.git-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.git-dropdown:hover .git-content {
+  display: block;
+  font-size: 2vh;
+}
+.git-dropdown p {
+  font-size: 2.5vh;
+  transition: 0.4s;
+}
+.git-dropdown p:hover {
+  font-size: 2vh;
+}
+.git-content p {
+  font-size: 1.5vh;
+}
+
+
+.strat-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.strat-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.strat-dropdown:hover .strat-content {
+  display: block;
+  font-size: 2vh;
+}
+.strat-dropdown p {
+  font-size: 2.5vh;
+  transition: 0.4s;
+}
+.strat-dropdown p:hover {
+  font-size: 2vh;
+}
+.strat-content p {
+  font-size: 1.5vh;
+}
+
+
+.anal-dropdown {
+  position: relative;
+  display: inline-block;
+}
+.anal-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+.anal-dropdown:hover .anal-content {
+  display: block;
+  font-size: 2vh;
+}
+.anal-dropdown p {
+  font-size: 2.5vh;
+  transition: 0.4s;
+}
+.anal-dropdown p:hover {
+  font-size: 2vh;
+}
+.anal-content p {
+  font-size: 1.5vh;
+}
